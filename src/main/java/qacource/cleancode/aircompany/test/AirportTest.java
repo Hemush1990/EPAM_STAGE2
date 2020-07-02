@@ -1,13 +1,13 @@
 package qacource.cleancode.aircompany.test;
 
-import epam.learning.cleancode.aircompany.main.Airport;
-import epam.learning.cleancode.aircompany.main.models.ClassificationLevel;
-import epam.learning.cleancode.aircompany.main.models.ExperimentalTypes;
-import epam.learning.cleancode.aircompany.main.models.MilitaryType;
-import epam.learning.cleancode.aircompany.main.planes.ExperimentalPlane;
-import epam.learning.cleancode.aircompany.main.planes.MilitaryPlane;
-import epam.learning.cleancode.aircompany.main.planes.PassengerPlane;
-import epam.learning.cleancode.aircompany.main.planes.Plane;
+import qacource.cleancode.aircompany.main.Airport;
+import qacource.cleancode.aircompany.main.models.ClassificationLevel;
+import qacource.cleancode.aircompany.main.models.ExperimentalTypes;
+import qacource.cleancode.aircompany.main.models.MilitaryType;
+import qacource.cleancode.aircompany.main.planes.ExperimentalPlane;
+import qacource.cleancode.aircompany.main.planes.MilitaryPlane;
+import qacource.cleancode.aircompany.main.planes.PassengerPlane;
+import qacource.cleancode.aircompany.main.planes.Plane;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
