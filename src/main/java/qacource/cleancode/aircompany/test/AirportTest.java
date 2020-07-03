@@ -8,9 +8,8 @@ import qacource.cleancode.aircompany.main.planes.ExperimentalPlane;
 import qacource.cleancode.aircompany.main.planes.MilitaryPlane;
 import qacource.cleancode.aircompany.main.planes.PassengerPlane;
 import qacource.cleancode.aircompany.main.planes.Plane;
-import org.junit.jupiter.api.Test;
 import org.testng.Assert;
-import org.testng.annotations.AfterTest;
+import org.testng.annotations.*;
 
 import java.util.Arrays;
 import java.util.List;
