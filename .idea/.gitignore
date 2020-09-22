@@ -5,3 +5,8 @@
 Text2.txt
 *.iml
 .gitignore
+
+.idea/
+
+*.iml
+
