@@ -1,4 +1,4 @@
-package qacource.exceptions;
+package stage2.exceptions;
 
 public enum Disciplines {
     RUSSIAN_LITERATURE("Русская литература"), FOREIGN_LITERATURE("Зарубежняя литература"),

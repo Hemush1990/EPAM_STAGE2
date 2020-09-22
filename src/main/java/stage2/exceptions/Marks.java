@@ -1,6 +1,6 @@
-package qacource.exceptions;
+package stage2.exceptions;
 
-import qacource.exceptions.ExceptionErrors.*;
+import stage2.exceptions.ExceptionErrors.*;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package qacource.exceptions;
+package stage2.exceptions;
 
 public class Group extends Faculty {
 

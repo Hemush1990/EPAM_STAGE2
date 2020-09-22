@@ -1,4 +1,4 @@
-package qacource.exceptions.ExceptionErrors;
+package stage2.exceptions.ExceptionErrors;
 
 public class AbsenceOfGroup extends Exception{
     public AbsenceOfGroup(){

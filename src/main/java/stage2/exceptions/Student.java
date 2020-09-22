@@ -1,4 +1,4 @@
-package qacource.exceptions;
+package stage2.exceptions;
 
 import java.util.List;
 
