@@ -1,7 +1,11 @@
 package qacource.exceptions.ExceptionErrors;
 
 public class AbsenceofStudent extends Exception{
-    public AbsenceofStudent(String message){
+    public AbsenceofStudent(){
         super("There aren't students in the group");
+    }
+
+    public AbsenceofStudent(String message){
+        super(message);
     }
 }

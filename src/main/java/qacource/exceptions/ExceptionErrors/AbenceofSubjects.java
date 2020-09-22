@@ -1,7 +1,11 @@
 package qacource.exceptions.ExceptionErrors;
 
 public class AbenceofSubjects extends Exception{
-    public AbenceofSubjects(String message){
+    public AbenceofSubjects(){
         super("There aren't any subjects");
+    }
+
+    public AbenceofSubjects(String message){
+        super(message);
     }
 }

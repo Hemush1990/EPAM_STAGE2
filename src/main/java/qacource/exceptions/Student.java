@@ -1,10 +1,13 @@
 package qacource.exceptions;
 
+import java.util.List;
+
 public class Student extends Group {
     private String name;
     private String surname;
     private Disciplines disciplines;
     private int mark;
+    private List<Marks> marks;
 
     public String getName() {
         return name;

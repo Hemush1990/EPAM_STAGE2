@@ -1,7 +1,10 @@
 package qacource.exceptions.ExceptionErrors;
 
 public class AbsenceOfGroup extends Exception{
-    public AbsenceOfGroup(String message){
+    public AbsenceOfGroup(){
         super("There aren't any groups");
+    }
+    public AbsenceOfGroup(String message){
+        super(message);
     }
 }

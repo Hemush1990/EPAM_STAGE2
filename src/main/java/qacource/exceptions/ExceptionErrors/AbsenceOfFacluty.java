@@ -1,7 +1,10 @@
 package qacource.exceptions.ExceptionErrors;
 
 public class AbsenceOfFacluty extends Exception{
-    public AbsenceOfFacluty(String message){
+    public AbsenceOfFacluty(){
         super("There aren't any faculties");
+    }
+    public AbsenceOfFacluty(String message){
+        super(message);
     }
 }
