@@ -1,8 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.idea/
-.learning-auto.iml
 /target
 Text2.txt
 *.iml
